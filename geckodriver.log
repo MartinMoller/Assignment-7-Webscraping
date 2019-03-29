@@ -103,3 +103,13 @@ JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/pla
 JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
 console.log: Accessibility service init or shutdown observer does not exist.
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1553859266735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3qXe3UpgoRby"
+1553859269584	Marionette	INFO	Listening on port 39087
+1553859269647	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: https://www.dba.dk/bundle/js/88ce43cd2a913993df0e5c43521f6715?v=AjgCnyrqxMDQrkVyZA7vOdNHgd8CLdgUprkSy6bycmg1, line 1: TypeError: o is null
+JavaScript error: https://www.dba.dk/bundle/js/88ce43cd2a913993df0e5c43521f6715?v=AjgCnyrqxMDQrkVyZA7vOdNHgd8CLdgUprkSy6bycmg1, line 1: TypeError: o is null
+JavaScript error: https://www.dba.dk/bundle/js/88ce43cd2a913993df0e5c43521f6715?v=AjgCnyrqxMDQrkVyZA7vOdNHgd8CLdgUprkSy6bycmg1, line 1: TypeError: o is null
+JavaScript error: https://www.dba.dk/bundle/js/88ce43cd2a913993df0e5c43521f6715?v=AjgCnyrqxMDQrkVyZA7vOdNHgd8CLdgUprkSy6bycmg1, line 1: TypeError: o is null
+JavaScript error: https://cdn.userreport.com/userreport.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

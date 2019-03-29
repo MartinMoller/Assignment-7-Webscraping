@@ -8,7 +8,7 @@ def get_search_results(searchString):
 
     base_url = 'https://www.dba.dk'
 
-    browser = webdriver.Firefox(executable_path='/home/juanni420/anaconda3/lib/python3.7/geckodriver')
+    browser = webdriver.Firefox()
     browser.get(base_url)
     browser.implicitly_wait(3)
 
@@ -32,6 +32,5 @@ def get_search_results(searchString):
     cph.click()
 
     return browser.page_source
-
 
 
