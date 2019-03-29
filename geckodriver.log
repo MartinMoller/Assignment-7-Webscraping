@@ -113,3 +113,29 @@ JavaScript error: https://www.dba.dk/bundle/js/88ce43cd2a913993df0e5c43521f6715?
 JavaScript error: https://www.dba.dk/bundle/js/88ce43cd2a913993df0e5c43521f6715?v=AjgCnyrqxMDQrkVyZA7vOdNHgd8CLdgUprkSy6bycmg1, line 1: TypeError: o is null
 JavaScript error: https://cdn.userreport.com/userreport.js, line 166: NS_ERROR_NOT_INITIALIZED: 
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1553859574847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NBosG2TEbGkL"
+1553859577020	Marionette	INFO	Listening on port 33939
+1553859577064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://betterbannerscloud.com/static/common/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://betterbannerscloud.com/static/common/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 4337, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1553859658976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6tosjtQwU8M6"
+1553859660961	Marionette	INFO	Listening on port 33285
+1553859660988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
