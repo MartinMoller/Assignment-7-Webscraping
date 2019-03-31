@@ -31,7 +31,10 @@ def get_search_results(searchString):
     cph = browser.find_element_by_class_name("no-koebenhavn-og-omegn")
     cph.click()
 
-    return browser.page_source
+    pageSource = browser.page_source
+    browser.close()
+
+    return pageSource
 
 def get_data(page_source):
     soup = bs4.BeautifulSoup(page_source, 'html.parser')
@@ -43,7 +46,8 @@ def get_data(page_source):
         price = float(e.select('td a')[6].text.strip()[:-3].strip())
         img_url = e.select('td div a div')[0]['data-original']
         details_url = e.select('td div a')[1]['href']
-        combined = (description,price,img_url,details_url)
+        phone_number = get_phone_number(details_url)
+        combined = (description,price,img_url,phone_number,details_url)
         entries_arr.append(combined)
 
     entries_arr.sort(key=lambda x: x[1])
@@ -56,6 +60,7 @@ def get_data(page_source):
             <th>Description</th>
             <th>Price</th>
             <th>Image url</th>
+            <th>Phone Number</th>
             <th>Details url</th>
         </tr>"""
     for tup in entries_arr:
@@ -64,6 +69,22 @@ def get_data(page_source):
         for el in x:
             html += el
         html += "</tr>"
-    return html
 
-##print(get_search_results("pokemon"))    
+    return html + "</table>"
+
+def get_phone_number(url):
+
+    browser = webdriver.Firefox(executable_path='geckodriver')
+    browser.get(url)
+    browser.implicitly_wait(3)
+
+    phone_number_toggler = browser.find_element_by_id('PhoneNumberToggle')
+    browser.execute_script("arguments[0].scrollIntoView();", phone_number_toggler)
+    phone_number_toggler.click()
+
+    phone_number = browser.find_element_by_class_name('phone-number-placeholder').text
+
+    browser.close()
+
+    return phone_number
+ 

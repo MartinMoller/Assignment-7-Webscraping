@@ -644,3 +644,1547 @@ JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/pla
 1554058592101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.au3rR2ziF9rT"
 1554058594309	Marionette	INFO	Listening on port 44309
 1554058594413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554059752430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vOZr7dGqyESU"
+1554059754663	Marionette	INFO	Listening on port 35355
+1554059754759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+1554060574717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bhIU0NVD9dUi"
+1554060576659	Marionette	INFO	Listening on port 35821
+1554060576740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 6284, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554061251440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VOnykcozJ8Of"
+1554061253513	Marionette	INFO	Listening on port 33977
+1554061253571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7079, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554061285579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DFrBcX1FNZpV"
+1554061287789	Marionette	INFO	Listening on port 40027
+1554061287892	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1554061879303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NwzoktwPT0Dt"
+1554061881262	Marionette	INFO	Listening on port 34501
+1554061881322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554061911761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LYBTj0Zhyo0x"
+1554061913901	Marionette	INFO	Listening on port 33089
+1554061913974	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 8026, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554061999210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nnx2RhCJsKzj"
+1554062001439	Marionette	INFO	Listening on port 44841
+1554062001538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 8366, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 8366, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8321, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062034142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EHHsuOsofZpo"
+1554062036373	Marionette	INFO	Listening on port 34479
+1554062036460	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062103350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DEOKIQfQWWBy"
+1554062105309	Marionette	INFO	Listening on port 42617
+1554062105362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript error: https://573095f1bd8d3e12bc9a58e1.bannerflow.com/bf-banners/5a5c691fbaae2557d88aa53b.html?cb=636894566161386646&clickpixel=%2F%2F573095f1bd8d3e12bc9a58e1.tracker.bannerflow.com%2Fapi%2Ftr%2Fclick%3Fdata%3D%257B%2522account%2522%253A%2522envision%2522%252C%2522brand%2522%253A%2522573095f1bd8d3e12bc9a58e1%2522%252C%2522placement%2522%253A%252257ecb54e8658543058201f32%2522%252C%2522ad%2522%253A%252257ecb54e8658543058201f33%2522%252C%2522bannerset%2522%253A%25225a55e9518a10af1a90a30efb%2522%252C%2522banner%2522%253A%25225a5c691fbaae2557d88aa53b%2522%252C%2522spotIndexes%2522%253A0%252C%2522bannerIds%2522%253A%25225a5c691fbaae2557d88aa53b%2522%257D&targeturl=https%3A%2F%2Fr-ad.bsx.agency%2F%3Fdest%3Dhttps%3A%2F%2Fams1-ib.adnxs.com%2Fclick%3F4Zf6eVOR4j_hl_p5U5HiPwAAAAAAAERA4Zf6eVOR4j_hl_p5U5HiP11XMUxyrGFjAtnfwAj-oScpG6FcAAAAADlk0wCKCwAA-wYAAAIAAAC8LdYHmioYAAAAAABVU0QAREtLAKIDtAClmwAAAAABAQUCAAAAALwAryf38wAAAAA.%2Fbcr%3DAAAAAAAA8D8%3D%2Fcnd%3D%2521BRFl2AjqxZ8NELzb2D4YmtVgIAAoADEAAAAAAADgPzoJQU1TMTozOTk1QLcJSQLU1LK1nhpAUQAAAAAAAAAAWQAAAAAAAAAA%2Fcca%3DMTc4NyNBTVMxOjM5OTU%3D%2Fbn%3D84030%2Freferrer%3Dhttps%253A%252F%252Fwww.dba.dk%252Fsoeg%252F%253Fsoeg%253Dpokemon%2526per%253D1%2Fclickenc%3Dhttps%3A%2F%2Ftrack.adform.net%2FC%2F%3Fbn%3D27542269%3Badfibeg%3D0%3Bcdata%3DIum7CdtCyp7GJIyoiE9h2wqTPjZoIc4zZq2seoYbw1P1SYUjiUhs-NQdL6fBIAIwSoVNYsAnzjmMPySDbqD-zBWNSIerCO3ExZhEiuZL5J3B81ifIhuSCd49Leli2xFa0%3B%3BCREFURL%3Dhttps%253a%252f%252fwww.dba.dk%252fsoeg%252f%253fsoeg%253dpokemon%2526per%253d1%3BC%3D1%3Bcpdir%3D%5Btarget_url_esc%5D&targetwindow=_blank&ref=https%3A%2F%2Fwww.dba.dk%2Fsoeg%2F, line 54: ReferenceError: BF is not defined
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062132952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JUZCvYCLCHNv"
+1554062135099	Marionette	INFO	Listening on port 38531
+1554062135166	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062301224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wld6IDvyIWlr"
+1554062303450	Marionette	INFO	Listening on port 46771
+1554062303537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 9289, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 9289, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 9289, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 9289, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 9289, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 9289, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 9289, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062337553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eDCIcuRVarQj"
+1554062339687	Marionette	INFO	Listening on port 43935
+1554062339770	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062525530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w1iY9gp6Aajc"
+1554062527860	Marionette	INFO	Listening on port 46781
+1554062527956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062559646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nBNknp16ep2l"
+1554062562145	Marionette	INFO	Listening on port 37817
+1554062562176	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062652073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f76tKcAZP5Yf"
+1554062654234	Marionette	INFO	Listening on port 34867
+1554062654292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 10266, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10221, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062694978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6I8KdiNpfAPI"
+1554062697369	Marionette	INFO	Listening on port 34189
+1554062697417	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062713392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x88Zekj8Oyy7"
+1554062715947	Marionette	INFO	Listening on port 39001
+1554062716057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10571, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10526, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062746299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ll5IQbtbXhEy"
+1554062748702	Marionette	INFO	Listening on port 41569
+1554062748736	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062757302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h2q9fkM2F3xl"
+1554062759821	Marionette	INFO	Listening on port 40337
+1554062759927	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062765930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v9EY9jaj1zpe"
+1554062768248	Marionette	INFO	Listening on port 32843
+1554062768341	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 10972, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062774425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q9gfblvyqWK2"
+1554062776634	Marionette	INFO	Listening on port 42401
+1554062776764	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062784605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WHfcJiGAbRIr"
+1554062786750	Marionette	INFO	Listening on port 35387
+1554062786830	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554062794579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c7D04X42WtMn"
+1554062796742	Marionette	INFO	Listening on port 37681
+1554062796800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1328: TypeError: currentPanel is undefined
+JavaScript warning: https://www.bedst-billigst.dk/media/js/ffc1aaf2c76176ad49ea66c8937f490f-1542291885.js?v=aUmYZ9kOEd, line 1140: unreachable code after return statement
+console.error: "_refreshProcess of computed view cancelled"
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1554063091011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qccgcZIUaHPi"
+1554063093301	Marionette	INFO	Listening on port 36363
+1554063093330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11895, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11850, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063128975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qiLayvvTrjEX"
+1554063131604	Marionette	INFO	Listening on port 43781
+1554063131702	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063141317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5lhH4rO7WH4F"
+1554063143528	Marionette	INFO	Listening on port 43931
+1554063143642	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 12156, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063150503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q5PUGk2BPOm9"
+1554063152630	Marionette	INFO	Listening on port 41255
+1554063152716	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 12342, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Parent 12297, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063159619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sDCvHpXRhciM"
+1554063161776	Marionette	INFO	Listening on port 41389
+1554063161836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063359560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Foh9cWvLG5M5"
+1554063361530	Marionette	INFO	Listening on port 36491
+1554063361573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063399470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5oQBWCgLuRps"
+1554063401637	Marionette	INFO	Listening on port 45101
+1554063401689	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 14245, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063407723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NGh9qaChQPcQ"
+1554063409658	Marionette	INFO	Listening on port 43385
+1554063409737	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063418623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4iFlWKJVERco"
+1554063420601	Marionette	INFO	Listening on port 38413
+1554063420639	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 14534, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063428279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AZUNTnSHniHR"
+1554063430210	Marionette	INFO	Listening on port 46459
+1554063430289	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 14686, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14640, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063437898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tzuk3rRQgda5"
+1554063439849	Marionette	INFO	Listening on port 33881
+1554063439909	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063446760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.25aKhVcfLBZc"
+1554063448693	Marionette	INFO	Listening on port 37755
+1554063448770	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 14930, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063453856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fRLuSF8A0tGM"
+1554063455814	Marionette	INFO	Listening on port 39859
+1554063455877	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 15071, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063462708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wfQh6nWtyHCy"
+1554063464689	Marionette	INFO	Listening on port 37895
+1554063464724	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063470455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GaZ75FzUYMgu"
+1554063472384	Marionette	INFO	Listening on port 32899
+1554063472465	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 15408, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 15408, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063478524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aAn3dsVY0fY2"
+1554063480453	Marionette	INFO	Listening on port 34991
+1554063480536	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063487095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q6rQmFDLyZCt"
+1554063489150	Marionette	INFO	Listening on port 37669
+1554063489213	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 15703, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15657, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063501122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DkfUh5RFIMMP"
+1554063503096	Marionette	INFO	Listening on port 39365
+1554063503158	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15808, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063509328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3X4jnZvCnkah"
+1554063511548	Marionette	INFO	Listening on port 37329
+1554063511653	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063519701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DrtFUA5IJ4qk"
+1554063521695	Marionette	INFO	Listening on port 45761
+1554063521717	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063531263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gBGekIFbUtAO"
+1554063533282	Marionette	INFO	Listening on port 46707
+1554063533392	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063684046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BIO3ENLCgnps"
+1554063686210	Marionette	INFO	Listening on port 36473
+1554063686272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063719822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QKBL0r8WSycI"
+1554063722285	Marionette	INFO	Listening on port 35675
+1554063722363	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1554063947414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QYvac8S5jp0w"
+1554063949369	Marionette	INFO	Listening on port 43173
+1554063949428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17578, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554063980803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FpLE5REtK0be"
+1554063982972	Marionette	INFO	Listening on port 41119
+1554063983025	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 17727, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064044903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J2f1Un74gee0"
+1554064047164	Marionette	INFO	Listening on port 42807
+1554064047225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064094098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IFaZztK8ONsx"
+1554064096546	Marionette	INFO	Listening on port 36251
+1554064096620	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064119496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R4nFniZKSlhZ"
+1554064121854	Marionette	INFO	Listening on port 46193
+1554064121925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 18288, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18243, Gecko_IOThread] WARNING: pipe error (111): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064153756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P4kQvhmvDMhh"
+1554064156145	Marionette	INFO	Listening on port 42029
+1554064156179	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064165004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JrRubI0W1FxV"
+1554064167531	Marionette	INFO	Listening on port 43575
+1554064167629	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 18538, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064176631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w0WCrGDdiuFl"
+1554064179026	Marionette	INFO	Listening on port 45365
+1554064179047	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064192522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WxVZjesSSVbf"
+1554064194868	Marionette	INFO	Listening on port 34853
+1554064194942	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064203928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pj0ZK4xzAHsN"
+1554064206075	Marionette	INFO	Listening on port 41687
+1554064206142	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 19030, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x490007,name=PHttpChannel::Msg_Redirect2Verify) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18984, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064213939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kbaXUXV1c48Y"
+1554064216116	Marionette	INFO	Listening on port 36141
+1554064216150	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064221933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VIYCs2M9wo0E"
+1554064224125	Marionette	INFO	Listening on port 42405
+1554064224148	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064230938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aW67lDHHmNxK"
+1554064233265	Marionette	INFO	Listening on port 45403
+1554064233368	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 19421, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064243823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g3EFOXG98J9I"
+1554064245979	Marionette	INFO	Listening on port 40409
+1554064246034	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 19561, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064252415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.snUftnL4PXNC"
+1554064254564	Marionette	INFO	Listening on port 38455
+1554064254628	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 19750, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064259515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hr2oO9CbAF84"
+1554064261697	Marionette	INFO	Listening on port 41031
+1554064261736	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064268688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RyMq66avsPuU"
+1554064271412	Marionette	INFO	Listening on port 43035
+1554064271503	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 19996, Gecko_IOThread] WARNING: pipe error (111): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064278290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.slUYRVpk5FVU"
+1554064280601	Marionette	INFO	Listening on port 36291
+1554064280710	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 20138, Gecko_IOThread] WARNING: pipe error (116): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064286776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PBPjC6iNPthV"
+1554064288912	Marionette	INFO	Listening on port 35325
+1554064288991	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 20284, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064294143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9IFAQeYzD7U0"
+1554064296492	Marionette	INFO	Listening on port 43087
+1554064296570	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064694754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8xArlLrVc5sY"
+1554064697015	Marionette	INFO	Listening on port 44885
+1554064697095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 21986, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064728993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.veCX8net5sDC"
+1554064731338	Marionette	INFO	Listening on port 33845
+1554064731416	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 22098, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064741545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KhdyggWtYHuK"
+1554064743658	Marionette	INFO	Listening on port 46875
+1554064743757	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064751531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pKRuFEmVtmwZ"
+1554064753708	Marionette	INFO	Listening on port 33621
+1554064753755	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 22394, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064764712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MYZkZtq8UOuT"
+1554064766737	Marionette	INFO	Listening on port 33739
+1554064766839	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 22583, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Parent 22538, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064771678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8gIGursagwaD"
+1554064773910	Marionette	INFO	Listening on port 44595
+1554064773995	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 22686, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064789265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TD31mgGHhWD6"
+1554064791497	Marionette	INFO	Listening on port 46157
+1554064791582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.google.com/adsense/search/ads.js, line 289: TypeError: k is null
+JavaScript error: https://www.google.com/adsense/search/ads.js, line 289: TypeError: k is null
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064800094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T0a6kruIvfoY"
+1554064802285	Marionette	INFO	Listening on port 37929
+1554064802311	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064808485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wLEIMkTaf9RD"
+1554064810679	Marionette	INFO	Listening on port 33771
+1554064810710	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 23167, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23167, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23167, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23167, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064816816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zWZLxyWtz1YH"
+1554064818979	Marionette	INFO	Listening on port 45021
+1554064819034	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064826083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XT4D1Rjucum0"
+1554064828209	Marionette	INFO	Listening on port 35051
+1554064828297	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064836605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QzcJ1psswwIV"
+1554064839280	Marionette	INFO	Listening on port 38421
+1554064839330	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 23608, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23608, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23608, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23608, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23608, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23608, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23608, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064846830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2BCxNF8FaBOh"
+1554064848999	Marionette	INFO	Listening on port 35251
+1554064849053	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064853443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kbEuEO5cT1yN"
+1554064856218	Marionette	INFO	Listening on port 43523
+1554064856263	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 23897, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Parent 23852, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064866534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7jXZIKG3RfOL"
+1554064868636	Marionette	INFO	Listening on port 38159
+1554064868661	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 23998, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554064874456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jXxO3QXcDc7E"
+1554064876715	Marionette	INFO	Listening on port 39475
+1554064876770	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24188, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0094,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24143, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
