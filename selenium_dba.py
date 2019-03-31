@@ -3,12 +3,15 @@ from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
 
 def get_search_results(searchString):
 
     base_url = 'https://www.dba.dk'
 
-    browser = webdriver.Firefox(executable_path='geckodriver')
+    options = Options()
+
+    browser = webdriver.Firefox(executable_path='geckodriver', options=options)
     browser.get(base_url)
     browser.implicitly_wait(3)
 
@@ -74,7 +77,9 @@ def get_data(page_source):
 
 def get_phone_number(url):
 
-    browser = webdriver.Firefox(executable_path='geckodriver')
+    options = Options()
+
+    browser = webdriver.Firefox(executable_path='geckodriver', options=options)
     browser.get(url)
     browser.implicitly_wait(3)
 
