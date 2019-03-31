@@ -1,4 +1,5 @@
 import bs4
+import operator
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -33,4 +34,37 @@ def get_search_results(searchString):
 
     return browser.page_source
 
+def get_data(page_source):
+    soup = bs4.BeautifulSoup(page_source, 'html.parser')
+    event_cells = soup.find_all('tr', {'class': 'dbaListing'})
+    
+    entries_arr = []
+    for e in event_cells:
+        description = e.select('td div a')[1].text
+        price = float(e.select('td a')[6].text.strip()[:-3].strip())
+        img_url = e.select('td div a div')[0]['data-original']
+        details_url = e.select('td div a')[1]['href']
+        combined = (description,price,img_url,details_url)
+        entries_arr.append(combined)
+
+    entries_arr.sort(key = operator.itemgetter(1))
+
+    def mapfunc(el):
+        return "<td>" + str(el) + "</td>"
+
+    html = """<table>
+        <tr>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Image url</th>
+            <th>Details url</th>
+        </tr>"""
+    for tup in entries_arr:
+        html += "<tr>"
+        x = list(map(mapfunc, tup))
+        for el in x:
+            html += el
+        html += "</tr>"
+    return html
+    
 
