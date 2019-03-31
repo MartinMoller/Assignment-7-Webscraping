@@ -1,5 +1,4 @@
 import bs4
-import operator
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
