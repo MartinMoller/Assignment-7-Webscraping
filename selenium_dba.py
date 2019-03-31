@@ -47,7 +47,7 @@ def get_data(page_source):
         combined = (description,price,img_url,details_url)
         entries_arr.append(combined)
 
-    entries_arr.sort(key = operator.itemgetter(1))
+    entries_arr.sort(key=lambda x: x[1])
 
     def mapfunc(el):
         return "<td>" + str(el) + "</td>"
