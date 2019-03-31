@@ -66,4 +66,4 @@ def get_data(page_source):
         html += "</tr>"
     return html
 
-print(get_search_results("pokemon"))    
+##print(get_search_results("pokemon"))    
