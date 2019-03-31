@@ -635,3 +635,12 @@ console.error: BroadcastService:
 
 JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js line 285 > eval, line 1: unreachable code after return statement
 JavaScript warning: https://cdn.bluebillywig.com/apps/player/20190327.164559/player.js, line 1: unreachable code after return statement
+1554058276049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.954ghjcu7DzF"
+1554058279085	Marionette	INFO	Listening on port 41685
+1554058279177	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3287, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 3287, Chrome_ChildThread] WARNING: pipe error (32): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 3287, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1554058592101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.au3rR2ziF9rT"
+1554058594309	Marionette	INFO	Listening on port 44309
+1554058594413	Marionette	WARN	TLS certificate errors will be ignored for this session

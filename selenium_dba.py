@@ -8,7 +8,7 @@ def get_search_results(searchString):
 
     base_url = 'https://www.dba.dk'
 
-    browser = webdriver.Firefox()
+    browser = webdriver.Firefox(executable_path='geckodriver')
     browser.get(base_url)
     browser.implicitly_wait(3)
 
@@ -65,5 +65,5 @@ def get_data(page_source):
             html += el
         html += "</tr>"
     return html
-    
 
+print(get_search_results("pokemon"))    
