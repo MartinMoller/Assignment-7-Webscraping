@@ -2188,3 +2188,8 @@ console.log: Accessibility service init or shutdown observer does not exist.
 
 [Parent 24143, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554066206550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A16Oia4Mm57L"
+1554066208911	Marionette	INFO	Listening on port 38713
+1554066208978	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25607, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 25607, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-itlWhx/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
